@@ -13,7 +13,7 @@
 This is how the UI looks like on the mobile app:
 <br/>
 <br/>
-<img src="images/demo-img.png" width="200">
+<img src="images/demo-img.png" width="300">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
