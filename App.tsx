@@ -19,8 +19,6 @@ const apiUrl = "https://api.openai.com/v1/chat/completions";
 
 type apiKey = string;
 
-// this is just a testing comment for github
-
 export default function App() {
   const [question, setQuestion] = useState("");
   const [answer, setAnswer] = useState("");
